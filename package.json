@@ -1,0 +1,20 @@
+{
+  "name": "gitbook-plugin-mermaid3",
+  "description": "Plugin for GitBook 3 which renders Mermaid flow from markdown.",
+  "main": "index.js",
+  "version": "1.0.0",
+  "engines": {
+    "gitbook": "*"
+  },
+ 
+  "dependencies": {
+    "q": "1.1.2",
+    "phantom": "^0.8.3",
+    "phantomjs": "~1.9.18"
+  },
+
+  "repository": {
+    "type": "git"
+  },
+  "license": "ISC"
+}
